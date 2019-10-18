@@ -5,10 +5,34 @@ body {
 
 .coat-of-arms {
     position: absolute;
+    width: 15%;
+    left: -2%;
+    top: 30%;
+    z-index: -2;
+    opacity: 0.8;
+}
+
+.salute-1 {
+    position: absolute;
     width: 20%;
-    right: 0%;
-    bottom: 0;
-    z-index: 100;
+    left: 10%;
+    top: 15%;
+    z-index: -3;
+}
+
+.salute-2 {
+    position: absolute;
+    width: 20%;
+    left: 35%;
+    z-index: -3;
+}
+
+.salute-3 {
+    position: absolute;
+    width: 25%;
+    left: 65%;
+    top: 5%;
+    z-index: -3;
 }
 
 .radio-station-0 {
@@ -30,22 +54,22 @@ body {
 .radio-station-2 {
     position: absolute;
     width: 25%;
-    left: 35%;
-    bottom: 30%;
+    left: 45%;
+    bottom: 25%;
     z-index: -1;
 }
 
 .radio-station-3 {
    position: absolute;
    width: 25%;
-   left: 55%;
+   left: 70%;
    bottom: 15%;
 }
 
 .radio-station-4 {
     position: absolute;
     width: 25%;
-    left: 25%;
+    left: 20%;
     bottom: 2%;
     z-index: 1;
 }
@@ -74,7 +98,7 @@ body {
 #svg-tanks {
     position: absolute;
     width: 15%;
-    height: 40%;
+    height: 35%;
     left: 0;
     bottom: 0;
     z-index: -1;

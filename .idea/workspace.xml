@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="902ffbd7-4705-40db-865c-d81992359f51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/res/audio/music.wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html.html" beforeDir="false" afterPath="$PROJECT_DIR$/html.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/res/airplane.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/airplane.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/radioStation/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/radioStation/0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/radioStation/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/radioStation/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/tank-small.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/tank-small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style-main.css" beforeDir="false" afterPath="$PROJECT_DIR$/style-main.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,9 +25,12 @@
   </component>
   <component name="ProjectId" id="1SN77dBkIfIvgal37kPSHPGLqlC" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/res/audio" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/audio" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/res" />
       <recent name="$PROJECT_DIR$/res/caption" />
@@ -55,6 +59,14 @@
       <option name="presentableId" value="Default" />
       <updated>1571383368529</updated>
     </task>
+    <task id="LOCAL-00001" summary="Replaced some images">
+      <created>1571425722750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571425722750</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,5 +79,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Replaced some images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Replaced some images" />
   </component>
 </project>
