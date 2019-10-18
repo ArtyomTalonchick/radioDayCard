@@ -1,24 +1,27 @@
+const DUR = 20;
+
 $(document).ready(function() {
-   var svg = document.getElementById('svg-caption');
-   var airplane = document.getElementById('airplane');
-   var caption = document.getElementById('caption');
+    var svg = document.getElementById('svg-caption');
+    var airplane = svg.children[0];
+    var caption = svg.children[1];
+    airplane.firstElementChild.setAttribute('dur', `${DUR}s`);
+    caption.firstElementChild.setAttribute('dur', `${DUR}s`);
 
-   var delay = 0;
-   [...Array(12).keys()].forEach(i => {
-       var airplane_copy = airplane.cloneNode(true);
-       airplane_copy.firstElementChild.setAttribute('begin', `${delay}s`);
-       svg.appendChild(airplane_copy);
+    var delay = 0;
+    [...'с днем войск связи'].forEach(letter => {
+        if (letter !== ' ') {
+            var airplane_copy = airplane.cloneNode(true);
+            airplane_copy.firstElementChild.setAttribute('begin', `${delay}s`);
+            svg.appendChild(airplane_copy);
 
-       var caption_copy = caption.cloneNode(true);
-       caption_copy.firstElementChild.setAttribute('begin', `${delay}s`);
-       caption_copy.setAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href', `./res/caption/_${i+1}.png`)
-       svg.appendChild(caption_copy);
+            var caption_copy = caption.cloneNode(true);
+            caption_copy.firstElementChild.setAttribute('begin', `${delay}s`);
+            caption_copy.setAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href', `./res/caption/_${letter}.png`);
 
-        if(delay === 0 || delay === 5){
-            delay += 2;
-        } else {
-            delay++;
+            svg.appendChild(caption_copy);
+            console.log(caption_copy);
         }
+        delay++;
    });
 
 });
