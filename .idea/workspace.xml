@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="902ffbd7-4705-40db-865c-d81992359f51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/res/audio/music.wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html.html" beforeDir="false" afterPath="$PROJECT_DIR$/html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/airplane.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/airplane.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/tank-small.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/tank-small.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style-main.css" beforeDir="false" afterPath="$PROJECT_DIR$/style-main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/caption.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/tanks.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571425722750</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hotfix">
+      <created>1571428859798</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571428859798</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Replaced some images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Replaced some images" />
+    <MESSAGE value="hotfix" />
+    <option name="LAST_COMMIT_MESSAGE" value="hotfix" />
   </component>
 </project>
