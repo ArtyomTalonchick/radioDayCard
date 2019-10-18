@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="902ffbd7-4705-40db-865c-d81992359f51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/res/coat-of-arms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/radioStation/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/radioStation/4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html.html" beforeDir="false" afterPath="$PROJECT_DIR$/html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/radioStation/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/radioStation/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style-main.css" beforeDir="false" afterPath="$PROJECT_DIR$/style-main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/airplane.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/airplane.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/radioStation/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/radioStation/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/radioStation/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/radioStation/2.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +15,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SN77dBkIfIvgal37kPSHPGLqlC" />
