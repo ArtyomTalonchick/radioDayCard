@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>День радиста</title>
+    <link rel="stylesheet" href="style-main.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="./scripts/caption.js"></script>
+    <script src="./scripts/tanks.js"></script>
+</head>
+<body>
+
+<audio autoplay loop src="./res/audio/tank.wav"></audio>
+<audio autoplay loop src="./res/audio/airplane.wav"></audio>
+
+<div class="image-div" id="main-div">
+
+    <img src="./res/background.png" class="background-img">
+
+    <img src="./res/radioStation/0.png" class="radio-station-0">
+    <img src="./res/radioStation/1.png" class="radio-station-1">
+    <img src="./res/radioStation/2.png" class="radio-station-2">
+
+    <img src="./res/lap-1.png" class="lap-1-img">
+
+    <svg id="svg-tanks">
+        <image xlink:href="./res/tank-small.png" id="tank" width="0">
+            <animate attributeName="x" values="-100%; 80%" dur="5s" repeatCount="indefinite" begin="0s"/>
+            <animate attributeName="y" values="100%; 0" dur="5s" repeatCount="indefinite" begin="0s"/>
+            <animate attributeName="height" values="100%; 0" dur="5s" repeatCount="indefinite" begin="0s"/>
+            <animate attributeName="width" values="100%; 0" dur="5s" repeatCount="indefinite" begin="0s"/>
+        </image>
+    </svg>
+
+    <svg id="svg-caption">
+        <image xlink:href="./res/airplane.png" id="airplane" height="20%" y="30%" x="100%" id="id">
+            <animate attributeName="x" values="100%; -100%" dur="20s" repeatCount="indefinite" begin="0s"/>
+        </image>
+        <image xlink:href="./res/caption/_1.png" id="caption" height="40%" y="45%" x="100%">
+            <animate attributeName="x" values="102%; -98%" dur="20s" repeatCount="indefinite" begin="0s"/>
+        </image>
+    </svg>
+
+</div>
+</body>
+</html>
