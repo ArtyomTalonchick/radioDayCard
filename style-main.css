@@ -3,26 +3,51 @@ body {
     overflow: hidden;
 }
 
-.radio-station-0 {
+.coat-of-arms {
     position: absolute;
     width: 20%;
-    right: 4%;
-    bottom: 20%;
+    right: 0%;
+    bottom: 0;
+    z-index: 100;
+}
+
+.radio-station-0 {
+    position: absolute;
+    width: 10%;
+    left: 54%;
+    bottom: 2%;
+    z-index: 1;
 }
 
 .radio-station-1 {
     position: absolute;
     width: 10%;
-    left: 47%;
-    bottom: 20%;
+    left: 45%;
+    bottom: 10%;
+    z-index: 1;
 }
 
 .radio-station-2 {
     position: absolute;
+    width: 25%;
+    left: 35%;
+    bottom: 30%;
+    z-index: -1;
+}
+
+.radio-station-3 {
+   position: absolute;
+   width: 25%;
+   left: 55%;
+   bottom: 15%;
+}
+
+.radio-station-4 {
     position: absolute;
-    left: 50%;
-    width: 20%;
-    bottom: 10%;
+    width: 25%;
+    left: 25%;
+    bottom: 2%;
+    z-index: 1;
 }
 
 .image-div{

@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="902ffbd7-4705-40db-865c-d81992359f51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/res/coat-of-arms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/radioStation/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/radioStation/4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html.html" beforeDir="false" afterPath="$PROJECT_DIR$/html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/caption.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/caption.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/caption/_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/caption/_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/caption/_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/caption/_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/caption/_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/caption/_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/caption/_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/caption/_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/caption/_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/caption/_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/caption/_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/caption/_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/caption.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/caption.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/radioStation/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/radioStation/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style-main.css" beforeDir="false" afterPath="$PROJECT_DIR$/style-main.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
