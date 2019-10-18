@@ -113,3 +113,11 @@ body {
     z-index: -2;
 }
 
+
+#caption {
+    position: absolute;
+    position: absolute;
+    top: 7%;
+    width: 76%;
+    left: 12%;
+}
