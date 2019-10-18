@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="902ffbd7-4705-40db-865c-d81992359f51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/scripts/caption.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html.html" beforeDir="false" afterPath="$PROJECT_DIR$/html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style-main.css" beforeDir="false" afterPath="$PROJECT_DIR$/style-main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/caption.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/caption.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571428859798</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixed safari and other case for ie">
+      <created>1571433928949</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571433928949</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +97,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Replaced some images" />
     <MESSAGE value="hotfix" />
-    <option name="LAST_COMMIT_MESSAGE" value="hotfix" />
+    <MESSAGE value="fixed safari and other case for ie" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed safari and other case for ie" />
   </component>
 </project>
